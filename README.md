@@ -1,0 +1,2 @@
+# Phylogenetic-Tree-Public
+(Soruce code currently in a public respository, available upon request) A program that builds and manipulates phylogenetic trees. It builds a tree from a set of aligned amino acid sequences. I constructed the phylogenetic tree using the pairwise distances between the sequences for each species and a simple agglomerative clustering algorithm. Once generated, you are able to query the trees to find common ancestors, measure evolutionary distance between species and compute basic properties of the tree and its nodes
